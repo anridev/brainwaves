@@ -1,2 +1,2 @@
 # brainwaves
-This is a Python script to get EEG data from Neurosky Mindwave Mobile device. Data is being fetched from Think Gear Connector software who manages Bluetooth connection to the device and serves on localhost socket with JSON data for each of EEG bands. Data is then saved into CSV file for further possible analysis.
+This is a Python script to get EEG data from Neurosky Mindwave Mobile device (http://store.neurosky.com/products/brainwave-starter-kit). Data is being fetched from Think Gear Connector (http://developer.neurosky.com/docs/doku.php?id=thinkgear_connector_tgc) who manages Bluetooth connection to the device and serves on localhost socket with JSON data for each of EEG bands. <br>Data is then saved into CSV file for further possible analysis.
